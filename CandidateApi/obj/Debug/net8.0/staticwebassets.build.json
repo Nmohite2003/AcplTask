@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "0h5/w4lAwQjJ4HOiuI9Pc69MtOfcA5twKmIMlpFd0Fs=",
+  "Source": "CandidateApi",
+  "BasePath": "_content/CandidateApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CandidateApi\\wwwroot",
+      "Source": "CandidateApi",
+      "ContentRoot": "C:\\Users\\good day\\OneDrive\\Desktop\\Angular\\CandidateApi\\wwwroot\\",
+      "BasePath": "_content/CandidateApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
